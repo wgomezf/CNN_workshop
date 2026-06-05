@@ -11,8 +11,8 @@ Participants will also perform practical Python exercises on Google Colab, featu
 *   [`Convolutional layer elements`](https://github.com/wgomezf/CNN_workshop/blob/main/Notebooks/convolayer.ipynb)
 *   [`Build and train the LeNet-5 model`](https://github.com/wgomezf/CNN_workshop/blob/main/Notebooks/LeNet5.ipynb)
 *   [`Test the LeNet-5 on handwritten numbers`](https://github.com/wgomezf/CNN_workshop/blob/main/Notebooks/LeNet5_test.ipynb)
-*   [`Transfer learning based on LeNet-5`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/translearn.ipynb)
-*   [`Grad-CAM visualization`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/gradcam.ipynb)
+*   [`Transfer learning based on LeNet-5`](https://github.com/wgomezf/CNN_workshop/blob/main/Notebooks/translearn.ipynb)
+*   [`Grad-CAM visualization`](https://github.com/wgomezf/CNN_workshop/blob/main/Notebooks/gradcam.ipynb)
 
 ## `Bibliography`
 <p align="center">
