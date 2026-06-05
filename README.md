@@ -1,4 +1,4 @@
-# Workshop on convolutional neural networks for image classification
+# Deep learning for image classification
 
 This workshop on deep learning techniques for image classification explores the basics of convolutional neural networks (CNNs), including the convolution operation, nonlinear activation functions, and downsampling via max-pooling. Also, it will be studied how transfer learning is used to solve new classification tasks from a pre-trained model, and how to use Grad-CAM to improve model explainability. 
 
