@@ -5,7 +5,7 @@ This workshop on deep learning techniques for image classification explores the 
 Participants will also perform practical Python exercises on Google Colab, featuring implementations of a basic CNN from scratch, named LeNet-5, used for handwritten character recognition.  Also, this trained model will be transferred to solve another object recognition task from the Fashion-MNIST dataset. Finally, examples of image classification by the ResNet-50 model will focus on Grad-CAM explainability.
 
 ## `Workshop slides`
-*   [`Theory:`](https://drive.google.com/file/d/1nwXoRhFR9vUJB53cWYdmTPcxzRUAHmGg/view?usp=sharing) An introduction to artificial neural networks
+*   [`PDF:`](https://drive.google.com/file/d/1c123OXjcm5qiqCHJo6MYDkc3VzyJr1Zx/view?usp=sharing) Deep learning for image classification 
   
 ## `Google Colab notebooks`
 *   [`Convolutional layer elements`](https://github.com/wgomezf/CNN_workshop/blob/main/Notebooks/convolayer.ipynb)
